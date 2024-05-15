@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travelWebApp/static/css/main.e2120647.css",
+    "main.js": "/travelWebApp/static/js/main.627824d0.js",
+    "static/media/video.mp4": "/travelWebApp/static/media/video.6be2f29563036665946f.mp4",
+    "static/media/video2.mp4": "/travelWebApp/static/media/video2.c4969c09aa863c5490f2.mp4",
+    "static/media/paris.jpg": "/travelWebApp/static/media/paris.0e6b10e089813831fac3.jpg",
+    "static/media/bangkok.jpg": "/travelWebApp/static/media/bangkok.943a1db029af1174b5b1.jpg",
+    "static/media/tokyo.jpg": "/travelWebApp/static/media/tokyo.bde1b0cd9a68839a942e.jpg",
+    "static/media/santorini.jpg": "/travelWebApp/static/media/santorini.bbb3a6aa2bd7da8aabe9.jpg",
+    "static/media/rome.jpg": "/travelWebApp/static/media/rome.d0d766718e8e2c16e80c.jpg",
+    "static/media/barcelona.jpg": "/travelWebApp/static/media/barcelona.a588f66a6af724f6570c.jpg",
+    "static/media/dubai.jpg": "/travelWebApp/static/media/dubai.33d1a5aa946cd7539ab4.jpg",
+    "static/media/amsterdam.jpg": "/travelWebApp/static/media/amsterdam.92291a475c4df741cebb.jpg",
+    "static/media/newyork.jpg": "/travelWebApp/static/media/newyork.7824cf9b3af8a190f73b.jpg",
+    "static/media/sydney.jpg": "/travelWebApp/static/media/sydney.5be8f00cbf8d5ed1fee7.jpg",
+    "index.html": "/travelWebApp/index.html",
+    "main.e2120647.css.map": "/travelWebApp/static/css/main.e2120647.css.map",
+    "main.627824d0.js.map": "/travelWebApp/static/js/main.627824d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2120647.css",
+    "static/js/main.627824d0.js"
+  ]
+}
